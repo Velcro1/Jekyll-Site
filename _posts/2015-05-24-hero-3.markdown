@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2015-05-24
+img: Spawn.svg
+alt: image-alt
+project-date: May 2015
+client: BoilerPlate
+category: Web Development
+description: Spawn is a fictional character, an anti-hero that appears in a monthly comic book of the same name published by Image Comics as well as annual compilations, mini-series specials written by guest authors and artists and numerous cross-over story-lines in other comic books. Created by writer/artist Todd McFarlane, the character first appeared in Spawn #1 (May 1992). Spawn was ranked 60th on Wizard magazine's list of the Top 200 Comic Book Characters of All Time, 50th on Empire magazine's list of The 50 Greatest Comic Book Characters and 36th on IGN's 2011 Top 100 Comic Book Heroes.
+
+---

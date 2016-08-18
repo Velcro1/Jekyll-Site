@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2016-05-14
+img: V.svg
+alt: image-alt
+project-date: May 2016
+client: BoilerPlate
+category: Web Development
+description: V is the title character of the comic book series V for Vendetta, created by Alan Moore and David Lloyd. He is a mysterious anarchist, vigilante, and freedom fighter who is easily recognizable by his Guy Fawkes mask, long hair and dark clothing. According to Moore, he was designed to be morally ambiguous, so that readers could decide for themselves whether he was a hero fighting for a cause or simply insane.
+
+---

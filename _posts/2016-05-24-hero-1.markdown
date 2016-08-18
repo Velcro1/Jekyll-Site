@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2016-05-24
+img: Deadpool.svg
+alt: image-alt
+project-date: May 2016
+client: BoilerPlate
+category: Web Development
+description: Deadpool (real name Wade Winston Wilson) is a fictional antihero appearing in American comic books published by Marvel Comics. Created by artist/writer Rob Liefeld and writer Fabian Nicieza, the character first appeared in The New Mutants #98 (cover-dated February 1991). 
+---

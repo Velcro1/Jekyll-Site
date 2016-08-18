@@ -1,0 +1,50 @@
+# Site settings
+title: MyBoilerPlate
+email: contact@lazyzombie.com
+url: https://example.github.io
+description: "Write a description here."
+skills: "Front-End Web Developer"
+meta_author: Zombie Lazy
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - comment the line below if you want the default PHP contact form
+contact: static
+
+# Color settings
+color:
+  primary: "CCCCCC" 
+  primary-rgb: "24,24,24" 
+  secondary: "000000" 
+  secondary-dark: "666666" 
+  tertiary: "999999"
+  white: "FFFFFF"
+  black: "000000"
+
+# Footer settings
+footer:
+  copyright: MyBoilerPlate
+  location: Location
+  social: Social Links
+  credits: Credits
+
+# Social networks usernames
+social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url:
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address
+address:
+  - line: 1234 Elm Street
+  - line: Somewhere USA 45678
+
+# Credits content
+credits: 'MyBoilerplate'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

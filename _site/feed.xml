@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MyBoilerPlate</title>
+    <description>Write a description here.</description>
+    <link>https://example.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 18 Aug 2016 13:53:04 -0400</pubDate>
+    <lastBuildDate>Thu, 18 Aug 2016 13:53:04 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Hero 1</title>
+        <description>Deadpool (real name Wade Winston Wilson) is a fictional antihero appearing in American comic books published by Marvel Comics. Created by artist/writer Rob Liefeld and writer Fabian Nicieza, the character first appeared in The New Mutants</description>
+        <pubDate>Tue, 24 May 2016 00:00:00 -0400</pubDate>
+        <link>https://example.github.io/web%20development/2016/05/24/hero-1/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2016/05/24/hero-1/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Hero 2</title>
+        <description>V is the title character of the comic book series V for Vendetta, created by Alan Moore and David Lloyd. He is a mysterious anarchist, vigilante, and freedom fighter who is easily recognizable by his Guy Fawkes mask, long hair and dark clothing. According to Moore, he was designed to be morally ambiguous, so that readers could decide for themselves whether he was a hero fighting for a cause or simply insane.</description>
+        <pubDate>Sat, 14 May 2016 00:00:00 -0400</pubDate>
+        <link>https://example.github.io/web%20development/2016/05/14/hero-2/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2016/05/14/hero-2/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Hero 3</title>
+        <description>Spawn is a fictional character, an anti-hero that appears in a monthly comic book of the same name published by Image Comics as well as annual compilations, mini-series specials written by guest authors and artists and numerous cross-over story-lines in other comic books. Created by writer/artist Todd McFarlane, the character first appeared in Spawn</description>
+        <pubDate>Sun, 24 May 2015 00:00:00 -0400</pubDate>
+        <link>https://example.github.io/web%20development/2015/05/24/hero-3/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2015/05/24/hero-3/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Hero 4</title>
+        <description>Rorschach (born Walter Joseph Kovacs) is a fictional character and an antihero of the acclaimed 1986 graphic novel miniseries Watchmen, published by DC Comics. Rorschach was created by writer Alan Moore with artist Dave Gibbons, but as with most of the main characters in the series, he was an analogue for a Charlton Comics character, in this case Steve Ditko's the Question and Mr. A.</description>
+        <pubDate>Thu, 14 May 2015 00:00:00 -0400</pubDate>
+        <link>https://example.github.io/web%20development/2015/05/14/hero-4/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2015/05/14/hero-4/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Hero 5</title>
+        <description>Jason Voorhees is the main character from the Friday the 13th series. He first appeared in Friday the 13th (1980) as the young son of camp cook-turned-murderer, Mrs. Voorhees, in which he was portrayed by Ari Lehman. Created by Victor Miller, with contributions by Ron Kurz, Sean S. Cunningham, and Tom Savini, Jason was not originally intended to carry the series as the main antagonist. The character has subsequently been represented in various other media, including novels, video games, comic books, and a cross-over film with another iconic horror film character, Freddy Krueger.</description>
+        <pubDate>Sat, 24 May 2014 00:00:00 -0400</pubDate>
+        <link>https://example.github.io/web%20development/2014/05/24/hero-5/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2014/05/24/hero-5/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Hero 6</title>
+        <description>Spider-Man is a fictional superhero appearing in American comic books published by Marvel Comics existing in its shared universe. The character was created by writer-editor Stan Lee and writer-artist Steve Ditko, and first appeared in the anthology comic book Amazing Fantasy</description>
+        <pubDate>Wed, 14 May 2014 00:00:00 -0400</pubDate>
+        <link>https://example.github.io/web%20development/2014/05/14/hero-6/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2014/05/14/hero-6/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>

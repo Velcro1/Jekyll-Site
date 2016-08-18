@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2015-05-14
+img: Rorschach.svg
+alt: image-alt
+project-date: May 2015
+client: BoilerPlate
+category: Web Development
+description: Rorschach (born Walter Joseph Kovacs) is a fictional character and an antihero of the acclaimed 1986 graphic novel miniseries Watchmen, published by DC Comics. Rorschach was created by writer Alan Moore with artist Dave Gibbons, but as with most of the main characters in the series, he was an analogue for a Charlton Comics character, in this case Steve Ditko's the Question and Mr. A.
+
+---
